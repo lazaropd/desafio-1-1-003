@@ -1,1 +1,10 @@
-# desafio-1-1-003
+# Equipe
+
+Alessandra
+
+Gabriela
+
+Lazaro
+
+Wana
+
