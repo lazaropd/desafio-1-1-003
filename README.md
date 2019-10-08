@@ -1,6 +1,6 @@
 # Equipe
 
-Alessandra
+Alessandra Buso
 
 Gabriela
 
