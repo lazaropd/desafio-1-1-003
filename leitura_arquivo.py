@@ -1,7 +1,6 @@
 
 
 def leitura_arquivo (arquivo_nome):
-	arquivo = open(arquivo_nome,"r")
 	
 	with open(arquivo_nome) as arq:
 		numero_sentencas = int(arq.readline())
