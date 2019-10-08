@@ -8,6 +8,14 @@ Lazaro Domiciano
 
 Wana Batista
 
+# Desafio 1
+
+Coloque os exercícios realizados na sua área no git
+
+Crie uma rotina que gera entradas aleatoriamente, e mostre o resultado da execução de cada desafio em um arquivo texto.
+
+
+
 # Desafio 2
 
 Para duas cadeias A e B, definimos a semelhança das cadeias como sendo o comprimento do prefixo mais longo comum a ambas as cadeias. Por exemplo, a similaridade das cadeias "abc" e "abd" é 2, enquanto a similaridade das cadeias "aaa" e "aaab" é 3.
