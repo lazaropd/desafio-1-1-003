@@ -21,8 +21,8 @@ if __name__ == '__main__':
 		
 	
 	# impressao de saida
-	for soma in somas:
-		print (int(soma))
+	for soma, sentenca in zip(somas,sentencas):
+		print (sentenca,': ',int(soma))
 
 
 	
