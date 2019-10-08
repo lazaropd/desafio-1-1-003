@@ -2,7 +2,7 @@
 
 Alessandra Buso
 
-Gabriela
+Gabriela Kimura
 
 Lazaro Domiciano
 
